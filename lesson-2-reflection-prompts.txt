@@ -10,10 +10,15 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Git commit modified file.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	When we need some different version, however we don't want to change master branch. 
 
 How do the diagrams help you visualize the branch structure?
+	
+	I can easily see the exactly position of branch start. It is important for us to reach some unreachable branch.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
